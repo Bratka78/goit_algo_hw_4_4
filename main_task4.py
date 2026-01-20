@@ -1,4 +1,4 @@
-from command import parse_input, add_contact, change_contact, show_all, show_phone
+from command_task4 import parse_input, add_contact, change_contact, show_all, show_phone
 
 
 def main():
